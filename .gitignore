@@ -1,6 +1,7 @@
 .gradle
 !.gradle/workflows/
 !.gradle/workflows/**
+
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
